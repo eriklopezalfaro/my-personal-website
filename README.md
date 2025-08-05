@@ -1,3 +1,3 @@
-# my-personal-website
+# portfolio-website-2025
 
-My personal portfolio website to showcase my skills in Python, Django, and front-end libraries like Tailwind. Stay tuned for updates!
+A modern, responsive portfolio website built with Python/Django and Tailwind CSS. Features include interactive 3D models and a full-stack project showcase. This project is a demonstration of my skills in front-end design, back-end development, and modern web integration.
